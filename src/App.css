@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  /*text-align: center;*/
+  background-color: #282c34;
+  min-height: 100vh;
 }
 
 .App-logo {
@@ -7,18 +9,56 @@
   pointer-events: none;
 }
 
+.team{
+  background-color: aqua;
+  height: 100vh;
+}
+.team1{
+  background-color: black;
+  height: 100vh;
+}
+
+.team2{
+  background-color: blue;
+  height: 100vh;
+}
+
+.team3{
+  background-color: sienna;
+  height: 100vh;
+}
+
+.team4{
+  background-color: green;
+  height: 100vh;
+}
+
+.team5{
+  background-color: yellow;
+  height: 100vh;
+}
+
+.team6{
+  background-color: red;
+  height: 100vh;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
-.App-header {
+.body{
+  color: white;
   background-color: #282c34;
-  min-height: 100vh;
+
+}
+.App-header {
+  min-height: 10vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  /*flex-direction: column;*/
+  /*align-items: center;*/
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
