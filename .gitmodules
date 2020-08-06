@@ -1,3 +1,18 @@
 [submodule "src/team3/React-Final-Project"]
 	path = src/team3/React-Final-Project
 	url = git@github.com:noamlasry/React-Final-Project.git
+[submodule "src/team2/react"]
+	path = src/team2/react
+	url = git@github.com:hadardabah/react.git
+[submodule "src/team1/movies-list"]
+	path = src/team1/movies-list
+	url = git@github.com:bashbash96/movies-list.git
+[submodule "src/team4/ReactFinalProject"]
+	path = src/team4/ReactFinalProject
+	url = git@github.com:anaSameer/ReactFinalProject.git
+[submodule "src/team5/VGareus"]
+	path = src/team5/VGareus
+	url = git@github.com:piskarovhaim/VGareus.git
+[submodule "src/team6/booksLIb"]
+	path = src/team6/booksLIb
+	url = git@github.com:KovalyovYura/booksLIb.git

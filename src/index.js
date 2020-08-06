@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App3 from './team3/React-Final-Project/reactfinalproject/src/App';
 import * as serviceWorker from './serviceWorker';
+import App from "./App";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App/>
+  {/*  index from class project*/}
   </React.StrictMode>,
   document.getElementById('root')
 );

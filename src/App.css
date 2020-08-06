@@ -1,7 +1,8 @@
 .App {
   /*text-align: center;*/
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color:darkturquoise;
+  /*min-height: 10%;*/
+  max-height: 10vh;
 }
 
 .App-logo {
@@ -55,9 +56,9 @@
 
 }
 .App-header {
-  min-height: 10vh;
+  /*max-height: 10vh;*/
   display: flex;
-  /*flex-direction: column;*/
+  flex-direction: column;
   /*align-items: center;*/
   justify-content: center;
   font-size: calc(10px + 2vmin);
