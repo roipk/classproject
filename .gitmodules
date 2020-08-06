@@ -1,0 +1,3 @@
+[submodule "src/team3/React-Final-Project"]
+	path = src/team3/React-Final-Project
+	url = git@github.com:noamlasry/React-Final-Project.git
